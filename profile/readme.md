@@ -2,11 +2,12 @@
 
 
 This organisation hosts several open projects, including:
-- repositories supporting the *Journal of Open Aviation Science*;
-- the source files to *A journey through aviation data*, an open-access book;
+- repositories supporting the [*Journal of Open Aviation Science*](https://journals.open.tudelft.nl/joas/);
+- the source files to [*A journey through aviation data*](https://aviationbook.netlify.app/), an open-access book;
 - more open-source projects related to aviation
 
-Read also about aviation related stories supported by open-source code and data on https://observablehq.com/@openaviation
+Read also about aviation related stories supported by open-source code and data:\
+https://observablehq.com/@openaviation
 
 [![joas-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-template&show_owner=false)](https://github.com/open-aviation/joas-template)
 [![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=false)](https://github.com/open-aviation/aviationbook)
