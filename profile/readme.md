@@ -9,6 +9,7 @@ This organisation hosts several open projects, including:
 Read also about aviation related stories supported by open-source code and data on https://observablehq.com/@openaviation
 
 [![joas-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-template&show_owner=false)](https://github.com/open-aviation/joas-template)
+[![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=false)](https://github.com/open-aviation/aviationbook)
 
 ## Projects
 
