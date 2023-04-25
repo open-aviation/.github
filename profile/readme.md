@@ -12,7 +12,7 @@ https://observablehq.com/@openaviation
 [![joas-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-template&show_owner=false)](https://github.com/open-aviation/joas-template)
 [![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=false)](https://github.com/open-aviation/aviationbook)
 
-## Projects
+## Related Projects
 
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 [![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=true)](https://github.com/xoolive/cartes)
