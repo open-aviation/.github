@@ -30,3 +30,4 @@ https://observablehq.com/@openaviation
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
 [![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
 [![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=true)](https://github.com/xoolive/traffic.js)
+[![metafora](https://github-readme-stats.vercel.app/api/pin/?username=ramondalmau&repo=metafora&show_owner=true)](https://github.com/ramondalmau/metafora)
