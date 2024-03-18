@@ -22,12 +22,17 @@ https://observablehq.com/@openaviation
 
 ## Community Projects
 
+### Software
+
 [![bluesky](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true)](https://github.com/TUDelft-CNS-ATM/bluesky)
-[![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=true)](https://github.com/xoolive/cartes)
-[![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=true)](https://github.com/achevrot/impunity)
+
+### Libraries
+
+[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
 [![openap](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=openap&show_owner=true)](https://github.com/junzis/openap)
+[![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=true)](https://github.com/xoolive/cartes)
 [![openap-top](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=openap-top&show_owner=true)](https://github.com/junzis/openap-top)
 [![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
-[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
-[![traffic.js](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic.js&show_owner=true)](https://github.com/xoolive/traffic.js)
+[![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=true)](https://github.com/xoolive/rs1090)
+[![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=true)](https://github.com/achevrot/impunity)
 [![metafora](https://github-readme-stats.vercel.app/api/pin/?username=ramondalmau&repo=metafora&show_owner=true)](https://github.com/ramondalmau/metafora)
