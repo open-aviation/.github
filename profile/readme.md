@@ -25,6 +25,8 @@ https://observablehq.com/@openaviation
 ### Software
 
 [![bluesky](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true)](https://github.com/TUDelft-CNS-ATM/bluesky)
+[![mercury](https://github-readme-stats.vercel.app/api/pin/?username=UoW-ATM&repo=Mercury&show_owner=true)](https://github.com/UoW-ATM/Mercury/)
+[![airtrafficsim](https://github-readme-stats.vercel.app/api/pin/?username=HKUST-OCTAD-LAB&repo=AirTrafficSim&show_owner=true)](https://github.com/HKUST-OCTAD-LAB/AirTrafficSim)
 
 ### Libraries
 
