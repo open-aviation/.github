@@ -20,13 +20,14 @@ https://observablehq.com/@openaviation
 [![pitot](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pitot&show_owner=false)](https://github.com/open-aviation/pitot)
 
 
-## Community Projects
+## Active Community Projects
 
 ### Software
 
 [![bluesky](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true)](https://github.com/TUDelft-CNS-ATM/bluesky)
 [![mercury](https://github-readme-stats.vercel.app/api/pin/?username=UoW-ATM&repo=Mercury&show_owner=true)](https://github.com/UoW-ATM/Mercury/)
-[![airtrafficsim](https://github-readme-stats.vercel.app/api/pin/?username=HKUST-OCTAD-LAB&repo=AirTrafficSim&show_owner=true)](https://github.com/HKUST-OCTAD-LAB/AirTrafficSim)
+[![AeroMAPS](https://github-readme-stats.vercel.app/api/pin/?username=AeroMAPS&repo=AeroMAPS&show_owner=true)](https://github.com/AeroMAPS/AeroMAPS)
+
 
 ### Libraries
 
@@ -38,3 +39,4 @@ https://observablehq.com/@openaviation
 [![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=true)](https://github.com/xoolive/rs1090)
 [![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=true)](https://github.com/achevrot/impunity)
 [![metafora](https://github-readme-stats.vercel.app/api/pin/?username=ramondalmau&repo=metafora&show_owner=true)](https://github.com/ramondalmau/metafora)
+
