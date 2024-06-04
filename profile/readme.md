@@ -4,12 +4,14 @@
 This organisation hosts several open projects, including:
 - repositories supporting the [*Journal of Open Aviation Science*](https://journals.open.tudelft.nl/joas/);
 - the source files to [*A journey through aviation data*](https://aviationbook.netlify.app/), an open-access book;
-- [*pyopensky*](https://github.com/open-aviation/pyopensky) library for accessing OpenSky historical database 
+- [*pyopensky*](https://github.com/open-aviation/pyopensky) library for accessing OpenSky historical database;
 - more open-sources projects related to aviation
 
 Read also about aviation related stories supported by open-source code and data:\
 https://observablehq.com/@openaviation
 
+When you are lost in searching for open data, we have a curated list of open aviation data:\
+https://atmdata.github.io/
 
 ## Open-Aviation Projects
 
