@@ -29,6 +29,7 @@ https://atmdata.github.io/
 [![bluesky](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true)](https://github.com/TUDelft-CNS-ATM/bluesky)
 [![mercury](https://github-readme-stats.vercel.app/api/pin/?username=UoW-ATM&repo=Mercury&show_owner=true)](https://github.com/UoW-ATM/Mercury/)
 [![AeroMAPS](https://github-readme-stats.vercel.app/api/pin/?username=AeroMAPS&repo=AeroMAPS&show_owner=true)](https://github.com/AeroMAPS/AeroMAPS)
+[![FastOAD](https://github-readme-stats.vercel.app/api/pin/?username=fast-aircraft-design&repo=FAST-OAD&show_owner=true)](https://github.com/fast-aircraft-design/FAST-OAD)
 
 
 ### Libraries
