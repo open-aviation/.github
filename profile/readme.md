@@ -11,7 +11,7 @@ Read also about aviation related stories supported by open-source code and data:
 https://observablehq.com/@openaviation
 
 When you are lost in searching for open data, we have a curated list of open aviation data:\
-https://atmdata.github.io/
+https://open-aviation.github.io/atmdata/
 
 ## Open-Aviation Projects
 
