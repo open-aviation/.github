@@ -16,6 +16,7 @@ https://open-aviation.github.io/atmdata/
 ## Open-Aviation Projects
 
 [![joas-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-template&show_owner=false)](https://github.com/open-aviation/joas-template)
+[![joas-review-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-review-template&show_owner=false)](https://github.com/open-aviation/joas-review-template)
 [![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=false)](https://github.com/open-aviation/aviationbook)
 [![pyopensky](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pyopensky&show_owner=false)](https://github.com/open-aviation/pyopensky)
 [![fastmeteo](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=fastmeteo&show_owner=false)](https://github.com/open-aviation/fastmeteo)
