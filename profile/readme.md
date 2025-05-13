@@ -44,4 +44,6 @@ https://open-aviation.github.io/atmdata/
 [![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=true)](https://github.com/xoolive/rs1090)
 [![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=true)](https://github.com/achevrot/impunity)
 [![metafora](https://github-readme-stats.vercel.app/api/pin/?username=ramondalmau&repo=metafora&show_owner=true)](https://github.com/ramondalmau/metafora)
+[![pycontrail](https://github-readme-stats.vercel.app/api/pin/?username=contrailcirrus&repo=pycontrails&show_owner=true)](https://github.com/contrailcirrus/pycontrails)
+
 
