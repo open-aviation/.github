@@ -1,0 +1,182 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate pin - joas-template
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=joas-template&show_owner=false
+          path: profile/pin-joas-template.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - joas-review-template
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=joas-review-template&show_owner=false
+          path: profile/pin-joas-review-template.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - aviationbook
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=aviationbook&show_owner=false
+          path: profile/pin-aviationbook.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - pyopensky
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=pyopensky&show_owner=false
+          path: profile/pin-pyopensky.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - fastmeteo
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=fastmeteo&show_owner=false
+          path: profile/pin-fastmeteo.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - tangram
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=tangram&show_owner=false
+          path: profile/pin-tangram.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - pitot
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=open-aviation&repo=pitot&show_owner=false
+          path: profile/pin-pitot.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - bluesky
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true
+          path: profile/pin-bluesky.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - mercury
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=UoW-ATM&repo=Mercury&show_owner=true
+          path: profile/pin-mercury.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - AeroMAPS
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=AeroMAPS&repo=AeroMAPS&show_owner=true
+          path: profile/pin-aeromaps.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - FastOAD
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=fast-aircraft-design&repo=FAST-OAD&show_owner=true
+          path: profile/pin-fastoad.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - traffic
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=xoolive&repo=traffic&show_owner=true
+          path: profile/pin-traffic.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - openap
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=TUDelft-CNS-ATM&repo=openap&show_owner=true
+          path: profile/pin-openap.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - cartes
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=xoolive&repo=cartes&show_owner=true
+          path: profile/pin-cartes.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - openap-top
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=TUDelft-CNS-ATM&repo=openap-top&show_owner=true
+          path: profile/pin-openap-top.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - pyModeS
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=junzis&repo=pymodes&show_owner=true
+          path: profile/pin-pymodes.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - rs1090
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=xoolive&repo=rs1090&show_owner=true
+          path: profile/pin-rs1090.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - impunity
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=achevrot&repo=impunity&show_owner=true
+          path: profile/pin-impunity.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - metafora
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=ramondalmau&repo=metafora&show_owner=true
+          path: profile/pin-metafora.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin - pycontrail
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=contrailcirrus&repo=pycontrails&show_owner=true
+          path: profile/pin-pycontrail.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update README cards" && git pull --rebase && git push)

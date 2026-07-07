@@ -15,35 +15,35 @@ https://open-aviation.github.io/atmdata/
 
 ## Open-Aviation Projects
 
-[![joas-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-template&show_owner=false)](https://github.com/open-aviation/joas-template)
-[![joas-review-template](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=joas-review-template&show_owner=false)](https://github.com/open-aviation/joas-review-template)
-[![aviationbook](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=aviationbook&show_owner=false)](https://github.com/open-aviation/aviationbook)
-[![pyopensky](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pyopensky&show_owner=false)](https://github.com/open-aviation/pyopensky)
-[![fastmeteo](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=fastmeteo&show_owner=false)](https://github.com/open-aviation/fastmeteo)
-[![tangram](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=tangram&show_owner=false)](https://github.com/open-aviation/tangram)
-[![pitot](https://github-readme-stats.vercel.app/api/pin/?username=open-aviation&repo=pitot&show_owner=false)](https://github.com/open-aviation/pitot)
+[![joas-template](./profile/pin-joas-template.svg)](https://github.com/open-aviation/joas-template)
+[![joas-review-template](./profile/pin-joas-review-template.svg)](https://github.com/open-aviation/joas-review-template)
+[![aviationbook](./profile/pin-aviationbook.svg)](https://github.com/open-aviation/aviationbook)
+[![pyopensky](./profile/pin-pyopensky.svg)](https://github.com/open-aviation/pyopensky)
+[![fastmeteo](./profile/pin-fastmeteo.svg)](https://github.com/open-aviation/fastmeteo)
+[![tangram](./profile/pin-tangram.svg)](https://github.com/open-aviation/tangram)
+[![pitot](./profile/pin-pitot.svg)](https://github.com/open-aviation/pitot)
 
 
 ## Active Community Projects
 
 ### Software
 
-[![bluesky](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=bluesky&show_owner=true)](https://github.com/TUDelft-CNS-ATM/bluesky)
-[![mercury](https://github-readme-stats.vercel.app/api/pin/?username=UoW-ATM&repo=Mercury&show_owner=true)](https://github.com/UoW-ATM/Mercury/)
-[![AeroMAPS](https://github-readme-stats.vercel.app/api/pin/?username=AeroMAPS&repo=AeroMAPS&show_owner=true)](https://github.com/AeroMAPS/AeroMAPS)
-[![FastOAD](https://github-readme-stats.vercel.app/api/pin/?username=fast-aircraft-design&repo=FAST-OAD&show_owner=true)](https://github.com/fast-aircraft-design/FAST-OAD)
+[![bluesky](./profile/pin-bluesky.svg)](https://github.com/TUDelft-CNS-ATM/bluesky)
+[![mercury](./profile/pin-mercury.svg)](https://github.com/UoW-ATM/Mercury/)
+[![AeroMAPS](./profile/pin-aeromaps.svg)](https://github.com/AeroMAPS/AeroMAPS)
+[![FastOAD](./profile/pin-fastoad.svg)](https://github.com/fast-aircraft-design/FAST-OAD)
 
 
 ### Libraries
 
-[![traffic](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=traffic&show_owner=true)](https://github.com/xoolive/traffic)
-[![openap](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=openap&show_owner=true)](https://github.com/junzis/openap)
-[![cartes](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=cartes&show_owner=true)](https://github.com/xoolive/cartes)
-[![openap-top](https://github-readme-stats.vercel.app/api/pin/?username=TUDelft-CNS-ATM&repo=openap-top&show_owner=true)](https://github.com/junzis/openap-top)
-[![pyModeS](https://github-readme-stats.vercel.app/api/pin/?username=junzis&repo=pymodes&show_owner=true)](https://github.com/junzis/pymodes)
-[![rs1090](https://github-readme-stats.vercel.app/api/pin/?username=xoolive&repo=rs1090&show_owner=true)](https://github.com/xoolive/rs1090)
-[![impunity](https://github-readme-stats.vercel.app/api/pin/?username=achevrot&repo=impunity&show_owner=true)](https://github.com/achevrot/impunity)
-[![metafora](https://github-readme-stats.vercel.app/api/pin/?username=ramondalmau&repo=metafora&show_owner=true)](https://github.com/ramondalmau/metafora)
-[![pycontrail](https://github-readme-stats.vercel.app/api/pin/?username=contrailcirrus&repo=pycontrails&show_owner=true)](https://github.com/contrailcirrus/pycontrails)
+[![traffic](./profile/pin-traffic.svg)](https://github.com/xoolive/traffic)
+[![openap](./profile/pin-openap.svg)](https://github.com/junzis/openap)
+[![cartes](./profile/pin-cartes.svg)](https://github.com/xoolive/cartes)
+[![openap-top](./profile/pin-openap-top.svg)](https://github.com/junzis/openap-top)
+[![pyModeS](./profile/pin-pymodes.svg)](https://github.com/junzis/pymodes)
+[![rs1090](./profile/pin-rs1090.svg)](https://github.com/xoolive/rs1090)
+[![impunity](./profile/pin-impunity.svg)](https://github.com/achevrot/impunity)
+[![metafora](./profile/pin-metafora.svg)](https://github.com/ramondalmau/metafora)
+[![pycontrail](./profile/pin-pycontrail.svg)](https://github.com/contrailcirrus/pycontrails)
 
 
