@@ -158,6 +158,14 @@ jobs:
           path: profile/pin-datalink.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin - pycontrail
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=contrailcirrus&repo=pycontrails&show_owner=true
+          path: profile/pin-pycontrail.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pin - impunity
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -172,14 +180,6 @@ jobs:
           card: pin
           options: username=ramondalmau&repo=metafora&show_owner=true
           path: profile/pin-metafora.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin - pycontrail
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=contrailcirrus&repo=pycontrails&show_owner=true
-          path: profile/pin-pycontrail.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

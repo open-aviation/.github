@@ -43,8 +43,8 @@ https://open-aviation.github.io/atmdata/
 [![pyModeS](./pin-pymodes.svg)](https://github.com/junzis/pymodes)
 [![rs1090](./pin-rs1090.svg)](https://github.com/xoolive/rs1090)
 [![datalink](./pin-datalink.svg)](https://github.com/xoolive/datalink)
+[![pycontrail](./pin-pycontrail.svg)](https://github.com/contrailcirrus/pycontrails)
 [![impunity](./pin-impunity.svg)](https://github.com/achevrot/impunity)
 [![metafora](./pin-metafora.svg)](https://github.com/ramondalmau/metafora)
-[![pycontrail](./pin-pycontrail.svg)](https://github.com/contrailcirrus/pycontrails)
 
 
