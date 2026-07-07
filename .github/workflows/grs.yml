@@ -150,6 +150,14 @@ jobs:
           path: profile/pin-rs1090.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin - datalink
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=xoolive&repo=datalink&show_owner=true
+          path: profile/pin-datalink.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pin - impunity
         uses: readme-tools/github-readme-stats-action@v1
         with:
