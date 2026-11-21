@@ -21,6 +21,7 @@ https://open-aviation.github.io/atmdata/
 [![pyopensky](./pin-pyopensky.svg)](https://github.com/open-aviation/pyopensky)
 [![fastmeteo](./pin-fastmeteo.svg)](https://github.com/open-aviation/fastmeteo)
 [![tangram](./pin-tangram.svg)](https://github.com/open-aviation/tangram)
+[![minisky](./pin-minisky.svg)](https://github.com/open-aviation/minisky)
 [![pitot](./pin-pitot.svg)](https://github.com/open-aviation/pitot)
 
 
