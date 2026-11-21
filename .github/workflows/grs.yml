@@ -68,6 +68,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate pin - minisky
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=open-aviation&repo=minisky&show_owner=false
+          path: profile/pin-minisky.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - name: Generate pin - pitot
         uses: stats-organization/github-readme-stats-action@v2
         with:
